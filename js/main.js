@@ -8,7 +8,7 @@ $(window).on('load', function() {
 		Preloder
 	--------------------*/
 	$(".loader").fadeOut();
-	$("#preloder").delay(40).fadeOut("slow");
+	$("#preloder").fadeOut("slow");
 
 });
 
