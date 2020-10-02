@@ -306,12 +306,7 @@ input[type=checkbox]:not(old) + label > span {
   background-image: linear-gradient(white, white);
   vertical-align: bottom; }
 
-input[type=checkbox]:not(old):checked + label > span {
-  background-image: -moz-linear-gradient(white, white);
-  background-image: -ms-linear-gradient(white, white);
-  background-image: -o-linear-gradient(white, white);
-  background-image: -webkit-linear-gradient(white, white);
-  background-image: linear-gradient(white, white); }
+
 
 input[type=checkbox]:not(old):checked + label > span:before {
   content: '\f26b';
