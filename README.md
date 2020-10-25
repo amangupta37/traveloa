@@ -10,6 +10,9 @@ Site URL :- https://traveloa-amangupta.netlify.app/
 
 # SITE OVERVIEW
 
+## MOBILE RESPONSIVE
+
+![img](/site_overview/mobile.gif)
 ## DESKTOP RESPONSIVE
 
 ## 1. LANDING PAGE
@@ -45,6 +48,4 @@ Site URL :- https://traveloa-amangupta.netlify.app/
 ![img1](/site_overview/11.png)
 
 
-## MOBILE RESPONSIVE
 
-![img](https://im5.ezgif.com/tmp/ezgif-5-c200fdae8a2f.gif)
