@@ -8,7 +8,7 @@ store their most precious memories in a form of blog.
 Site URL :- https://traveloa-amangupta.netlify.app/
 
 
-# SITE OVERVIEWS
+# SITE OVERVIEW
 
 ## 1. LANDING PAGE
 
@@ -31,4 +31,11 @@ Site URL :- https://traveloa-amangupta.netlify.app/
 ![img1](/site_overview/7.png)
 
 ![img1](/site_overview/8.png)
+
+## 4. AUTHOR'S SECTION
+
+![img1](/site_overview/5.png)
+
+
+![img1](/site_overview/6.png)
 
