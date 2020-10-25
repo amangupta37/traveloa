@@ -15,3 +15,10 @@ Site URL :- https://traveloa-amangupta.netlify.app/
 ![img1](/site_overview/1.png)
 
 ![img1](/site_overview/2.png)
+
+### BLOGS SECTION
+
+
+![img1](/site_overview/3.png)
+
+![img1](/site_overview/4.png)
