@@ -39,5 +39,5 @@ Site URL :- https://traveloa-amangupta.netlify.app/
 
 ![img1](/site_overview/6.png)
 
-## FOTTER SECTION
+## 5. FOTTER SECTION
 ![img1](/site_overview/11.png)
