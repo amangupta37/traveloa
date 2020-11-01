@@ -12,6 +12,7 @@ Site URL :- https://traveloa-amangupta.netlify.app/
 * CSS3
 * JavaScript
 * BootStrap4
+* Jquery
 
 
 # SITE OVERVIEW
