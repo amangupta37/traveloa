@@ -8,10 +8,10 @@ store their most precious memories in a form of blog.
 Site URL :- https://traveloa-amangupta.netlify.app/
 
 # Tech Stack Used
-HTML5
-CSS3
-JavaScript
-BootStrap4
+* HTML5
+* CSS3
+* JavaScript
+* BootStrap4
 
 
 # SITE OVERVIEW
